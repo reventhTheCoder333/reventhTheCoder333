@@ -1,5 +1,7 @@
 👋 Hi, I'm Reventh Sathishkumar
+
 🎓 Computer Science Major @ The University of Texas at Dallas
+
 I'm a Computer Science student at The University of Texas at Dallas (UTD) with a strong interest in software development, machine learning, data science, and AI.
 I enjoy building projects that combine programming, data, and intelligent systems while continuously expanding my technical skills.
 
