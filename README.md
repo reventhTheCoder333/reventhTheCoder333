@@ -1,7 +1,5 @@
-👋 Hi, I'm Reventh Sathishkumar
-
+                                                                      👋 Hi, I'm Reventh Sathishkumar
 🎓 Computer Science Major @ The University of Texas at Dallas
-
 I'm a Computer Science student at The University of Texas at Dallas (UTD) with a strong interest in software development, machine learning, data science, and AI.
 I enjoy building projects that combine programming, data, and intelligent systems while continuously expanding my technical skills.
 
@@ -34,6 +32,8 @@ Backend Development
 Data Analytics
 Cloud & Database Technologies
 
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 🧩 What I'm Working Toward
 I'm currently focused on strengthening my foundations in computer science, software engineering, machine learning, and data science while building projects that demonstrate practical applications of these skills.
 I'm particularly interested in opportunities where I can learn, collaborate, and contribute to meaningful technical projects.
