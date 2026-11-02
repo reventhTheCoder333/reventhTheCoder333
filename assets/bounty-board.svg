@@ -18,43 +18,48 @@
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">original repositories</text>
   </g>
   <g transform="translate(40 188)">
+    <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">DISCOVERIES</text>
+    <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">58</text>
+    <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">contributions, last year</text>
+  </g>
+  <g transform="translate(170.66666666666669 96)">
     <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">TREASURE</text>
     <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">0</text>
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">stars earned</text>
   </g>
-  <g transform="translate(234 96)">
+  <g transform="translate(170.66666666666669 188)">
     <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">CREW</text>
     <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">3</text>
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">followers</text>
   </g>
-  <g transform="translate(234 188)">
+  <g transform="translate(301.33333333333337 96)">
     <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">FLEET</text>
     <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">0</text>
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">forks of my repos</text>
   </g>
   <text x="460" y="96" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">LANGUAGES OF THE SEAS</text>
   <rect x="460" y="108" width="340" height="10" rx="5" fill="#04121E"/>
-  <g clip-path="url(#barclip)"><rect x="460" y="108" width="192.7" height="10" fill="#C6A15B"/><rect x="652.6697719834007" y="108" width="51.2" height="10" fill="#1B6570"/><rect x="703.8807359102481" y="108" width="27.2" height="10" fill="#D97941"/><rect x="731.0545157449521" y="108" width="27.1" height="10" fill="#4FB3B0"/><rect x="758.1297158884278" y="108" width="15.4" height="10" fill="#E8D6AD"/></g>
+  <g clip-path="url(#barclip)"><rect x="460" y="108" width="191.6" height="10" fill="#C6A15B"/><rect x="651.5553534741167" y="108" width="50.9" height="10" fill="#1B6570"/><rect x="702.4701087871745" y="108" width="27.0" height="10" fill="#D97941"/><rect x="729.4867131453975" y="108" width="26.9" height="10" fill="#4FB3B0"/><rect x="756.4053080057929" y="108" width="15.3" height="10" fill="#E8D6AD"/></g>
   
   <g transform="translate(460 146)">
     <circle cx="6" cy="-4" r="5" fill="#C6A15B"/>
     <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">TypeScript</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">56.7%</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">56.3%</text>
   </g>
   <g transform="translate(460 172)">
     <circle cx="6" cy="-4" r="5" fill="#1B6570"/>
     <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">Jupyter Notebook</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">15.1%</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">15.0%</text>
   </g>
   <g transform="translate(460 198)">
     <circle cx="6" cy="-4" r="5" fill="#D97941"/>
     <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">CSS</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">8.0%</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">7.9%</text>
   </g>
   <g transform="translate(460 224)">
     <circle cx="6" cy="-4" r="5" fill="#4FB3B0"/>
     <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">PLpgSQL</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">8.0%</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">7.9%</text>
   </g>
   <g transform="translate(460 250)">
     <circle cx="6" cy="-4" r="5" fill="#E8D6AD"/>
