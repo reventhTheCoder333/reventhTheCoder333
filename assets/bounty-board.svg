@@ -14,12 +14,12 @@
   
   <g transform="translate(40 96)">
     <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">ISLANDS CHARTED</text>
-    <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">11</text>
+    <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">13</text>
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">original repositories</text>
   </g>
   <g transform="translate(40 188)">
     <text font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">DISCOVERIES</text>
-    <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">58</text>
+    <text y="40" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="34" font-weight="600" fill="#E8D6AD">60</text>
     <text y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#B8AC92">contributions, last year</text>
   </g>
   <g transform="translate(170.66666666666669 96)">
@@ -39,32 +39,32 @@
   </g>
   <text x="460" y="96" font-family="'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif" font-size="12" letter-spacing="2.5" fill="#C6A15B">LANGUAGES OF THE SEAS</text>
   <rect x="460" y="108" width="340" height="10" rx="5" fill="#04121E"/>
-  <g clip-path="url(#barclip)"><rect x="460" y="108" width="194.9" height="10" fill="#C6A15B"/><rect x="654.8533297202086" y="108" width="49.7" height="10" fill="#1B6570"/><rect x="704.5965139798891" y="108" width="26.5" height="10" fill="#D97941"/><rect x="731.1092550833761" y="108" width="26.3" height="10" fill="#4FB3B0"/><rect x="757.4084411625229" y="108" width="14.9" height="10" fill="#E8D6AD"/></g>
+  <g clip-path="url(#barclip)"><rect x="460" y="108" width="161.1" height="10" fill="#C6A15B"/><rect x="621.0659119945242" y="108" width="83.8" height="10" fill="#1B6570"/><rect x="704.8473032053596" y="108" width="41.9" height="10" fill="#D97941"/><rect x="746.7467195276658" y="108" width="27.6" height="10" fill="#4FB3B0"/><rect x="774.3366488782515" y="108" width="10.2" height="10" fill="#E8D6AD"/></g>
   
   <g transform="translate(460 146)">
     <circle cx="6" cy="-4" r="5" fill="#C6A15B"/>
     <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">TypeScript</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">57.3%</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">47.4%</text>
   </g>
   <g transform="translate(460 172)">
     <circle cx="6" cy="-4" r="5" fill="#1B6570"/>
-    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">Jupyter Notebook</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">14.6%</text>
+    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">Python</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">24.6%</text>
   </g>
   <g transform="translate(460 198)">
     <circle cx="6" cy="-4" r="5" fill="#D97941"/>
-    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">CSS</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">7.8%</text>
+    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">Jupyter Notebook</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">12.3%</text>
   </g>
   <g transform="translate(460 224)">
     <circle cx="6" cy="-4" r="5" fill="#4FB3B0"/>
-    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">PLpgSQL</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">7.7%</text>
+    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">CSS</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">8.1%</text>
   </g>
   <g transform="translate(460 250)">
     <circle cx="6" cy="-4" r="5" fill="#E8D6AD"/>
-    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">HTML</text>
-    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">4.4%</text>
+    <text x="20" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E8D6AD">PLpgSQL</text>
+    <text x="340" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#B8AC92" text-anchor="end">3.0%</text>
   </g>
-  <text x="800" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#B8AC92" fill-opacity=".7" text-anchor="end">Generated from the GitHub API · 2026-11-07</text>
+  <text x="800" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" fill="#B8AC92" fill-opacity=".7" text-anchor="end">Generated from the GitHub API · 2026-11-08</text>
 </svg>
